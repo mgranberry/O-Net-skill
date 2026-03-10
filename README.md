@@ -48,7 +48,7 @@ This guide covers installation and initial data setup.
 ### 1. Clone or Extract This Repository
 
 ```bash
-git clone <repo-url> onet-skill
+git clone https://github.com/mgranberry/O-Net-skill.git onet-skill
 cd onet-skill
 ```
 
